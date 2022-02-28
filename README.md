@@ -11,7 +11,9 @@
 ### Command-line args
 
 **run**
+
 *Default task (io) executed if no args provided.*
+
 `lab3`
 `lab3 io`
 `lab3 cpu`
